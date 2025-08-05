@@ -502,10 +502,10 @@ SOFTWARE.
 
 ### **Built with ❤️ for the AI community**
 
-**[⭐ Star this repo](https://github.com/yourusername/personal-ai-advisor)** • **[🐛 Report Bug](https://github.com/yourusername/personal-ai-advisor/issues)** • **[✨ Request Feature](https://github.com/yourusername/personal-ai-advisor/issues)**
+**[⭐ Star this repo](https://github.com/Tejas1024/personal-ai-advisor)** • **[🐛 Report Bug](https://github.com/Tejas1024/personal-ai-advisor/issues)** • **[✨ Request Feature](https://github.com/Tejas1024/personal-ai-advisor/issues)**
 
 ---
 
-**Made by [Tejasgowda T R](https://github.com/Tejas1024) • [Website](https://your-website.com) • [LinkedIn](https://linkedin.com/in/yourname)**
+**Made by [Tejasgowda T R](https://github.com/Tejas1024) • [Website](https://personal-ai-advisor-ftulhqxgxxn6jspu8xxw6f.streamlit.app/) • [LinkedIn](https://www.linkedin.com/in/tejasgowda-t-064b41283?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**
 
 </div>
