@@ -506,6 +506,6 @@ SOFTWARE.
 
 ---
 
-**Made by [Your Name](https://github.com/yourusername) • [Website](https://your-website.com) • [LinkedIn](https://linkedin.com/in/yourname)**
+**Made by [Tejasgowda T R](https://github.com/Tejas1024) • [Website](https://your-website.com) • [LinkedIn](https://linkedin.com/in/yourname)**
 
 </div>
