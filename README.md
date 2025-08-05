@@ -462,12 +462,11 @@ SOFTWARE.
 - **Documentation**: Read this README thoroughly
 - **Issues**: Open GitHub issue with detailed description
 - **Discussions**: Join community discussions
-- **Email**: contact@personalai-advisor.com
+- **Email**: tejaspavithra2002@gmail.com
 
 ### **Community**
-- **GitHub**: [github.com/yourusername/personal-ai-advisor](https://github.com/yourusername/personal-ai-advisor)
-- **Discord**: [Join our community](https://discord.gg/your-server)
-- **Twitter**: [@PersonalAI_App](https://twitter.com/PersonalAI_App)
+- **GitHub**: [github.com/yourusername/personal-ai-advisor](https://github.com/Tejas1024/personal-ai-advisor)
+
 
 ### **Professional Services**
 - **Custom Development**: Tailored solutions for enterprises
@@ -494,7 +493,7 @@ SOFTWARE.
 
 ## 🌟 **Star History**
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/personal-ai-advisor&type=Date)](https://star-history.com/#yourusername/personal-ai-advisor&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=Tejas1024/personal-ai-advisor&type=Date)](https://star-history.com/#yourusername/personal-ai-advisor&Date)
 
 ---
 
