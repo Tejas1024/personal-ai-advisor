@@ -939,3 +939,89 @@ aws ecs update-service --desired-count 0 ...
 
 **Security Enhancements**:
 - [ ] AWS WA
+- [ ] for application firewall
+- [ ] Secrets Manager for API keys
+- [ ] Enhanced IAM policies
+- [ ] Regular security audits
+- [ ] Automated vulnerability scanning
+
+**Monitoring & Observability**:
+- [ ] CloudWatch Container Insights
+- [ ] Custom CloudWatch dashboards
+- [ ] Slack/Email notifications
+- [ ] Performance metrics tracking
+- [ ] Error rate monitoring
+
+**CI/CD Improvements**:
+- [ ] Blue-green deployments
+- [ ] Canary deployments
+- [ ] Automated rollback strategies
+- [ ] Integration tests in pipeline
+- [ ] Performance testing
+
+---
+
+## 👤 Author
+
+**Tejas**  
+*DevOps & Full-Stack Engineer*
+
+- **GitHub**: [@tejas1024](https://github.com/tejas1024)
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Email**: your.email@example.com
+
+**Professional Summary**:  
+Full-Stack Developer with DevOps expertise, specializing in cloud-native applications, containerization, and CI/CD automation. Experienced in Python, Docker, AWS, and modern web frameworks.
+
+---
+
+## 🎓 Project Documentation
+
+Complete phase-by-phase documentation available in `/documentation`:
+
+- [Phase 1: Environment Setup](documentation/phase-1/README.md)
+- [Phase 2: Dockerization](documentation/phase-2/README.md)
+- [Phase 3: GitHub Repository](documentation/phase-3/README.md)
+- [Phase 4: CI Pipeline](documentation/phase-4/README.md)
+- [Phase 5: AWS Deployment](documentation/phase-5/README.md)
+- [Architecture Overview](documentation/phase-5/architecture.md)
+
+---
+
+## 📝 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
+
+## 🙏 Acknowledgments
+
+- **Streamlit** - For the amazing Python web framework
+- **Groq** - For providing free AI API access
+- **AWS** - For cloud infrastructure
+- **Docker** - For containerization platform
+- **GitHub** - For version control and CI/CD
+
+---
+
+## 📞 Support & Feedback
+
+For issues, questions, or suggestions:
+
+- **Open an Issue**: [GitHub Issues](https://github.com/tejas1024/personal-ai-advisor/issues)
+- **Documentation**: Check `/documentation` folder
+- **Email**: your.email@example.com
+
+---
+
+<div align="center">
+
+### ⭐ If you find this project useful, please give it a star!
+
+**Built with ❤️ using Python, Docker, AWS, and GitHub Actions**
+
+---
+
+*Last Updated: January 2026*
+
+</div>
