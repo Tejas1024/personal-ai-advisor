@@ -1,7 +1,7 @@
 # 🤖 Personal AI Advisor Platform
 
 > Intelligent AI-powered advisory system with document processing and conversational interface
-
+[![CI Pipeline](https://github.com/tejas1024/personal-ai-advisor/actions/workflows/ci.yml/badge.svg)](https://github.com/tejas1024/personal-ai-advisor/actions)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue?logo=docker)](https://www.docker.com/)
 [![Python](https://img.shields.io/badge/Python-3.11-green?logo=python)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.46-red?logo=streamlit)](https://streamlit.io/)
