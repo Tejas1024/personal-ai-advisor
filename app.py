@@ -12,7 +12,7 @@ import docx
 from datetime import datetime
 from typing import List, Dict, Any
 import requests
-   
+    
 # Configuration
 USER_DB_PATH = "./users.db"
 DOCS_DIR = "./documents"
