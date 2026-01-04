@@ -967,7 +967,7 @@ aws ecs update-service --desired-count 0 ...
 *DevOps & Full-Stack Engineer*
 
 - **GitHub**: [@tejas1024](https://github.com/tejas1024)
-- **LinkedIn**: https://www.linkedin.com/in/tejasgowda-t-r?
+- **LinkedIn**: https://www.linkedin.com/in/tejasgowda-t-r
 - **Email**: tejaspavithra2002@gmail.com
 
 **Professional Summary**:  
