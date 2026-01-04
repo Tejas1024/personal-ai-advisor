@@ -1010,7 +1010,7 @@ For issues, questions, or suggestions:
 
 - **Open an Issue**: [GitHub Issues](https://github.com/tejas1024/personal-ai-advisor/issues)
 - **Documentation**: Check `/documentation` folder
-- **Email**: your.email@example.com
+- **Email**: tejaspavithra2002@gmail.com
 
 ---
 
