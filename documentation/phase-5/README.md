@@ -644,6 +644,48 @@ Your project now has:
 ✅ Complete documentation
 ```
 
+Commands to Restart Deployment
+
+# 1. Start the service
+aws ecs update-service \
+  --cluster personal-ai-advisor-cluster \
+  --service personal-ai-advisor-service \
+  --desired-count 1 \
+  --region ap-south-1
+
+# 2. Wait 2-3 minutes, then get task ARN
+aws ecs list-tasks \
+  --cluster personal-ai-advisor-cluster \
+  --service-name personal-ai-advisor-service \
+  --desired-status RUNNING \
+  --region ap-south-1 \
+  --query 'taskArns[0]' \
+  --output text
+
+# 3. Get network interface ID (replace TASK_ARN with output from step 2)
+aws ecs describe-tasks \
+  --cluster personal-ai-advisor-cluster \
+  --tasks TASK_ARN \
+  --region ap-south-1 \
+  --query 'tasks[0].attachments[0].details[?name==`networkInterfaceId`].value' \
+  --output text
+
+# 4. Get public IP (replace ENI_ID with output from step 3)
+aws ec2 describe-network-interfaces \
+  --network-interface-ids ENI_ID \
+  --region ap-south-1 \
+  --query 'NetworkInterfaces[0].Association.PublicIp' \
+  --output text
+
+# 5. Access your app at: http://15.206.82.232:8501
+
+
+Stop Service After Demo
+aws ecs update-service \
+  --cluster personal-ai-advisor-cluster \
+  --service personal-ai-advisor-service \
+  --desired-count 0 \
+  --region ap-south-1
 ---
 
 ## **COST MANAGEMENT**
@@ -666,25 +708,18 @@ aws ecs update-service \
   --region us-east-1
 ```
 
----
-
-## **WHAT TO TELL ME NEXT**
-
-1. **If everything worked**: Reply "Phase 5 complete, proceed to Phase 6"
-
-2. **If you want to stop here**: Reply "Phase 5 complete, project finished" (this is a great stopping point!)
-
-3. **If you encountered issues**: Tell me:
-   - Which step failed
-   - The exact error message
-   - Screenshot of the error
+ 
 
 **Note**: Phase 5 is a MAJOR milestone! Your project is now:
 - ✅ Production-ready
 - ✅ Fully automated
 - ✅ Portfolio-worthy
 - ✅ Interview-ready
+ 
 
-Phase 6 would add advanced features (Load Balancer, HTTPS, custom domain, etc.) but is OPTIONAL.
+
+
+
+
 
  
