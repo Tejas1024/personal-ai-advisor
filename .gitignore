@@ -1,5 +1,44 @@
-.env 
-api_keys.json 
-__pycache__/ 
-*.pyc 
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyc
+
+# Virtual Environment
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Application Data (local development)
+users.db
+documents/
+*.log
 user_config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Docker (keep Dockerfile, ignore containers/images)
+docker-compose.override.yml
+
+# OS
+Thumbs.db
+.DS_Store
+
+# API Keys (if you create this file)
+api_keys.json
