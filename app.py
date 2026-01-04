@@ -17,7 +17,7 @@ import requests
 USER_DB_PATH = "./users.db"
 DOCS_DIR = "./documents"
 CONFIG_PATH = "./user_config.json"
-
+ 
 # Ensure directories exist
 os.makedirs(DOCS_DIR, exist_ok=True)
 
