@@ -2,9 +2,9 @@ name: CI Pipeline - Personal AI Advisor
 
 on:
   push:
-    branches: [ main ]
+    branches: [ clean-main ]
   pull_request:
-    branches: [ main ]
+    branches: [ clean-main ]
 
 jobs:
   # Job 1: Code Quality and Testing
