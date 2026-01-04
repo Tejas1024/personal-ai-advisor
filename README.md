@@ -967,8 +967,8 @@ aws ecs update-service --desired-count 0 ...
 *DevOps & Full-Stack Engineer*
 
 - **GitHub**: [@tejas1024](https://github.com/tejas1024)
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Email**: your.email@example.com
+- **LinkedIn**: https://www.linkedin.com/in/tejasgowda-t-r?
+- **Email**: tejaspavithra2002@gmail.com
 
 **Professional Summary**:  
 Full-Stack Developer with DevOps expertise, specializing in cloud-native applications, containerization, and CI/CD automation. Experienced in Python, Docker, AWS, and modern web frameworks.
