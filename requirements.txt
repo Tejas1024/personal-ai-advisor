@@ -3,3 +3,8 @@ streamlit
 pandas
 PyPDF2
 python-docx
+requests
+
+# Testing
+pytest 
+flake8 
